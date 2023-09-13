@@ -1,4 +1,3 @@
-
 //  KEYWORDS: Add Round Key, AES.
 //  PURPOSE: An RTL modelling for an add round key used in the AES logic implementation.
 
