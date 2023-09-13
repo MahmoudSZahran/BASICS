@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: Counter.v
-//  TYPE: module.
-//  DATE: 25/8/2022
-//  KEYWORDS: Counter, Up-Down Counter, Parametrized.
-//  PURPOSE: An RTL modelling for a Parameterized Up-Down Counter
+//  PURPOSE: An RTL modeling for a Parameterized Up-Down Counter
 `timescale 1ns/1ps
 module Counter
 (
