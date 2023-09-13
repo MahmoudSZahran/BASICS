@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: SignExtn.sv
-//  TYPE: module.
-//  DATE: 28/9/2022
-//  KEYWORDS: Sign Extension.
-//  PURPOSE: An RTL modelling for a parametrized sign extension unit.
+//  PURPOSE: An RTL modeling for a parametrized sign extension unit.
 
 module SignExtn
 //-----------------Parameters-----------------\\ 
