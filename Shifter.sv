@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: Shifter.sv
-//  TYPE: module.
-//  DATE: 29/9/2022
-//  KEYWORDS: Shifter.
-//  PURPOSE: An RTL modelling for a parametrized left/right shifter.
+//  PURPOSE: An RTL modeling for a parametrized left/right shifter.
 
 module Shifter
 //-----------------Parameters-----------------\\ 
