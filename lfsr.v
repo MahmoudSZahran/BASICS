@@ -1,12 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  Digital Design with FPGA "NajahNow" Diploma.
-//  FILE NAME: lfsr.v
-//  TYPE: module.
-//  DATE: 11/9/2022
-//  KEYWORDS: Shift, Rotate, Linear feedback.
-//  PURPOSE: An RTL modelling for a linear feedback shift register.
+//  PURPOSE: An RTL modeling for a linear feedback shift register.
 
 module lfsr (
     input clock,
