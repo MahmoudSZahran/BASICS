@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: ShiftRows.v
-//  TYPE: module.
-//  DATE: 4/10/2022
-//  KEYWORDS: Rotator, AES.
-//  PURPOSE: An RTL modelling for a left rotator used in the AES logic implementation.
+//  PURPOSE: An RTL modeling for a left rotator used in the AES logic implementation.
 
 module ShiftRows 
 //-----------------Ports-----------------\\
