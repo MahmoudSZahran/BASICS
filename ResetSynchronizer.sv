@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: ResetSynchronizer.sv
-//  TYPE: module.
-//  DATE: 8/10/2022
-//  KEYWORDS: Reset Synchronizer, Asynchronous reset.
-//  PURPOSE: An RTL modelling for an Active low Reset Synchronizer.
+//  PURPOSE: An RTL modeling for an Active low Reset Synchronizer.
 
 module ResetSynchronizer 
 (
