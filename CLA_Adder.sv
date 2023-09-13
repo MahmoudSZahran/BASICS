@@ -1,11 +1,3 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: CLA_Adder.sv
-//  TYPE: module.
-//  DATE: 3/11/2022
-//  KEYWORDS: Carry Look Ahead, Adder, Fast Adder, Parametrized.
-//  PURPOSE: An RTL modelling for a Parametrized Caary Look Ahead Adder.
 //  Time-Area trade-off: it offers less time for the evaluation with more hardware complexity.
 `timescale 1ns/1ps
 module CLA_Adder 
