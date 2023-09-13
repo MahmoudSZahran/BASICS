@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: MUX.sv
-//  TYPE: module.
-//  DATE: 29/9/2022
-//  KEYWORDS: Multiplexer.
-//  PURPOSE: An RTL modelling for a parametrized 2-1 multiplexer.
+//  PURPOSE: An RTL modeling for a parametrized 2-1 multiplexer.
 
 module MUX 
 //-----------------Parameters-----------------\\
