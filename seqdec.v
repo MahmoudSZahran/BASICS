@@ -1,12 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  Digital Design with FPGA "NajahNow" Diploma.
-//  FILE NAME: seqdec.v
-//  TYPE: module.
-//  DATE: 11/9/2022
-//  KEYWORDS: Sequence detector.
-//  PURPOSE: An RTL modelling for a sequence detector for 1101.
+//  PURPOSE: An RTL modeling for a sequence detector for 1101.
 
 module seqdec (
     input reset_n,
