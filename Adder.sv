@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: Adder.sv
-//  TYPE: module.
-//  DATE: 28/9/2022
-//  KEYWORDS: Adder.
-//  PURPOSE: An RTL modelling for a synthesis machine dependent parameterized adder.
+//  PURPOSE: An RTL modelling for a synthesis machine-dependent parameterized adder.
 
 module Adder 
 //-----------------Parameters-----------------\\
