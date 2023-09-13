@@ -1,12 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  Digital Design with FPGA "NajahNow" Diploma.
-//  FILE NAME: fbshifter.v
-//  TYPE: module.
-//  DATE: 9/9/2022
-//  KEYWORDS: D-FlipFlop.
-//  PURPOSE: An RTL modelling for a D-flipflop.
+//  PURPOSE: An RTL modeling for a D-flipflop.
 
 module  dff
 #(
