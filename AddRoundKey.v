@@ -1,9 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: AddRoundKey.v
-//  TYPE: module.
-//  DATE: 4/10/2022
+
 //  KEYWORDS: Add Round Key, AES.
 //  PURPOSE: An RTL modelling for an add round key used in the AES logic implementation.
 
