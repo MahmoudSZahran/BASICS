@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: MixCols.v
-//  TYPE: module.
-//  DATE: 4/10/2022
-//  KEYWORDS: Mix Coloumns, AESs.
-//  PURPOSE: An RTL modelling for a mix coloumns used in the AES logic implementation.
+//  PURPOSE: An RTL modeling for a mix coloumns used in the AES logic implementation.
 
 module MixCols 
 //-----------------Ports-----------------\\
