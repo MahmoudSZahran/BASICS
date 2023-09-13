@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: Rotator.v
-//  TYPE: module.
-//  DATE: 26/9/2022
-//  KEYWORDS: Rotate left, Rotate right, Shift.
-//  PURPOSE: An RTL modelling for a parameterized Left/Right rotator.
+//  PURPOSE: An RTL modeling for a parameterized Left/Right rotator.
 
 module Rotator
 
