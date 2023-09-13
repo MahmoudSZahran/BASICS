@@ -1,11 +1,3 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  Digital Design with FPGA "NajahNow" Diploma.
-//  FILE NAME: clkdiv.v
-//  TYPE: module.
-//  DATE: 17/9/2022
-//  KEYWORDS: Integer clock divider, 50% Duty Cycle, Parametrized.
 //  PURPOSE: An RTL modelling for a Parameterized Integer(Even/Odd) Clock Divider with 50% duty cycle.
 
 module clk_div 
