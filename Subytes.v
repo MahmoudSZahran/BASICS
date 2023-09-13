@@ -1,11 +1,4 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: Subytes.v
-//  TYPE: module.
-//  DATE: 4/10/2022
-//  KEYWORDS: sub bytes, sbox, AES.
-//  PURPOSE: An RTL modelling for an sbox used in the AES logic implementation.
+//  PURPOSE: An RTL modeling for an sbox used in the AES logic implementation.
 
 module Subytes(
     input  wire [0:127] addr,
